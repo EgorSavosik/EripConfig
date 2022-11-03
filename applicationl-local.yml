@@ -1,5 +1,3 @@
-ftp:
-  erip:
     password: udyEquX
     login: VEBBank
     hostName: 10.54.1.155
@@ -8,7 +6,6 @@ ftp:
     connectTimeout: 20000
     fileUploadDelay: 86400000
     interval-in-cron: 0 0 8 * * *
-  path:
     file406: src/main/resources/ftpFiles/406/
     file408: src/main/resources/ftpFiles/408/
     file402: src/main/resources/ftpFiles/402/
