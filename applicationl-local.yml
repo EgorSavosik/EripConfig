@@ -1,14 +1,6 @@
-    password: udyEquX
-    login: VEBBank
-    hostName: 10.54.1.155
-    port: 21
-    dataTimeout: 20000
-    connectTimeout: 20000
-    fileUploadDelay: 86400000
-    interval-in-cron: 0 0 8 * * *
-    file406: src/main/resources/ftpFiles/406/
-    file408: src/main/resources/ftpFiles/408/
-    file402: src/main/resources/ftpFiles/402/
-    file404: src/main/resources/ftpFiles/404/
-    file410: src/main/resources/ftpFiles/410/
-    file412: src/main/resources/ftpFiles/412/
+file406: src/main/resources/ftpFiles/406/
+file408: src/main/resources/ftpFiles/408/
+file402: src/main/resources/ftpFiles/402/
+file404: src/main/resources/ftpFiles/404/
+file410: src/main/resources/ftpFiles/410/
+file412: src/main/resources/ftpFiles/412/
