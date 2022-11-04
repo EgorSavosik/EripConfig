@@ -1,7 +1,10 @@
-    password: udyEquX
+ftp:
+  erip:
+    password:
     login: VEBBank
     hostName: 10.54.1.155
     port: 21
     dataTimeout: 20000
     connectTimeout: 20000
     fileUploadDelay: 86400000
+    interval-in-cron: 0 0 8 * * *
