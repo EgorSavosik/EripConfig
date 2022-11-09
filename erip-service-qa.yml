@@ -1,0 +1,31 @@
+# Settings for FTP
+ftp.password: udyEquX
+ftp.login: VEBBank
+ftp.hostName: 10.54.1.155
+ftp.port: 21
+
+# Agent-erip
+agent.settlementAgentCode: "01226000"
+agent.settlementAgentAccount: BY09BELB38198195550080226000
+agent.unur: 226
+agent.unp: "100010078"
+
+# Setting for RestTemplateConfig
+erip.url: http://10.54.1.156/pls/scserp/xml_online.request
+
+# Database settings
+erip.db.url: jdbc:postgresql://172.28.20.203:5432/erip-qa?currentSchema=erip
+erip.db.username: erip
+erip.db.password: pzPUHklBWMk
+
+# Check-token
+token.url: https://qa-gw.vebtech.dev/sso/users/check-token
+
+# Certificate (eureka)
+eureka.key-store-password: 134679
+eureka.key-password: 134679
+eureka.trust-store-password: 134679
+
+# Certificate (server ssl)
+ssl.key-store-password: 134679
+ssl.trust-store-password: 134679
