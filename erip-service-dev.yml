@@ -15,7 +15,7 @@ erip.url: http://10.54.1.156/pls/scserp/xml_online.request
 
 # Database settings
 erip.db.url: jdbc:postgresql://172.28.20.93:5432/erip?currentSchema=erip
-erip.db.username: egor
+erip.db.username: erip
 erip.db.password: LliLxObVT6J
 
 # Check-token
